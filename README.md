@@ -13,4 +13,4 @@ A clean and simple web app to test your typing speed and accuracy.
 [Check it live](https://piyush2707.github.io/typing-ui/)
 
 ### ✨ Author:
-**Piyush Joshi** – UI/UX Designer & Frontend Developer
+**Piyush Joshi** –  Frontend Developer
